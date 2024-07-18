@@ -20,7 +20,7 @@ Mit 13 Jahren war Elaischa vollständig abhängig von den Vapes seiner Freunde. 
 
 ## Unterstützung finden
 
-Elaischa suchte nach Wegen, seine Abhängigkeit zu überwinden, ohne seine Freunde weiterhin zu belasten. Seine Eltern unterstützten ihn und halfen ihm, Beratung und Unterstützung zu finden. Er begann, sich regelmäßig mit einem Therapeuten zu treffen, der ihm half, seine Sucht zu verstehen und alternative Bewältigungsstrategien zu entwickeln. Die ersten Wochen waren besonders schwer. Elaischa kämpfte mit dem Drang, wieder zur E-Zigarette zu greifen. Doch mit der Unterstützung seiner Familie und seines Therapeuten fand er neue Hobbys und Aktivitäten, die ihm halfen, seine Gedanken vom Vapen abzulenken. Er begann, regelmäßig Sport zu treiben und entwickelte ein Interesse an Musik (die bessere Art, zu dampfen, wie er jetzt sagt).
+Elaischa suchte nach Wegen, seine Abhängigkeit zu überwinden, ohne seine Freunde weiterhin zu belasten. Seine Eltern unterstützten ihn und halfen ihm, Beratung und Unterstützung zu finden. Er begann, sich regelmäßig mit einem Therapeuten zu treffen, der ihm half, seine Sucht zu verstehen und alternative Bewältigungsstrategien zu entwickeln. Die ersten Wochen waren besonders schwer. Elaischa kämpfte mit dem Drang, wieder zur E-Zigarette zu greifen. Doch mit der Unterstützung seiner Familie und seines Therapeuten fand er neue Hobbys und Aktivitäten, die ihm halfen, seine Gedanken vom Vapen abzulenken. Er begann, regelmäßig Sport zu treiben und entwickelte ein Interesse an Musik (die bessere Art, zu dampfen, wie er jetzt sagt). Die Website(https://herzstiftung.de/ihre-herzgesundheit/gesund-bleiben/rauchen-aufhoeren) hals elaischa sehr wie er in einem Interview betonnte.
 
 ## Ein neues Kapitel
 
