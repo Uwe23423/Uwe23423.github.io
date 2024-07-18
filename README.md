@@ -1,40 +1,11 @@
 # Elaischa Abegga: Die traurige Geschichte
 
-Willkommen auf der Webseite, die die traurige Geschichte von Elaischa Abegga erzählt – einem Jungen, der sich nie eigene Vapes kaufen will und dessen Freunde immer für ihn einspringen müssen.
+Willkommen auf der Webseite, die die traurige Geschichte von Elaischa Abegga erzählt – einem Jungen, der sich nie eigene Vapes kaufen will und dessen Freunde immer für ihn einspringen müssen. Diese Webseite erzählt die Geschichte von Elaischa Abegga, einem jungen Mann, der aufgrund verschiedener Umstände nie eigene Vapes kaufen möchte. Stattdessen sind es seine Freunde, die ihm regelmäßig aushelfen. Die Erzählung beleuchtet die emotionalen und sozialen Dynamiken, die daraus entstehen, und lädt die Besucher ein, über Freundschaft und Abhängigkeit nachzudenken.
 
-## Übersicht
+Auf der Startseite finden Sie eine kurze Einführung in die Geschichte von Elaischa Abegga und einen Überblick über die Struktur der Webseite. In der Rubrik "Die Geschichte" wird ausführlich über Elaischa Abegga erzählt, inklusive Hintergrundinformationen zu seiner Situation und seinen Freunden. Der Abschnitt "Charaktere" bietet detaillierte Beschreibungen der Hauptfiguren, einschließlich Elaischa und seiner Freunde, ergänzt durch persönliche Zitate und Anekdoten. Unter "Reflexionen" finden Sie einen Gedankenaustausch über die moralischen und sozialen Aspekte der Geschichte, mit Gastbeiträgen und Kommentaren von Besuchern. Die Galerie enthält Bilder und Illustrationen, die die Geschichte visuell untermalen. Über die Kontaktseite können Sie uns jederzeit erreichen und sind eingeladen, an der Diskussion teilzunehmen oder Feedback zu geben.
 
-Diese Webseite erzählt die Geschichte von Elaischa Abegga, einem jungen Mann, der aufgrund verschiedener Umstände nie eigene Vapes kaufen möchte. Stattdessen sind es seine Freunde, die ihm regelmäßig aushelfen. Die Erzählung beleuchtet die emotionalen und sozialen Dynamiken, die daraus entstehen, und lädt die Besucher ein, über Freundschaft und Abhängigkeit nachzudenken.
+Um die Webseite lokal zu hosten oder Änderungen vorzunehmen, können Sie das Repository klonen, die Abhängigkeiten installieren und den Entwicklungsserver starten. Folgen Sie diesen Schritten: 1. Repository klonen: `git clone https://github.com/dein-benutzername/elaischa-abegga-geschichte.git`, 2. Abhängigkeiten installieren: `cd elaischa-abegga-geschichte` und `npm install`, 3. Entwicklungsserver starten: `npm start`, 4. Produktion bauen: `npm run build`.
 
-## Inhalte der Webseite
+Beiträge zur Webseite sind willkommen! Wenn Sie Ideen zur Verbesserung oder Ergänzungen haben, erstellen Sie bitte einen Pull-Request oder öffnen Sie ein Issue im GitHub-Repository.
 
-1. **Startseite**
-   - Kurze Einführung in die Geschichte von Elaischa Abegga.
-   - Überblick über die Struktur der Webseite.
-
-2. **Die Geschichte**
-   - Ausführliche Erzählung über Elaischa Abegga.
-   - Hintergrundinformationen zu seiner Situation und seinen Freunden.
-
-3. **Charaktere**
-   - Detaillierte Beschreibungen der Hauptfiguren, einschließlich Elaischa und seiner Freunde.
-   - Persönliche Zitate und Anekdoten.
-
-4. **Reflexionen**
-   - Gedankenaustausch über die moralischen und sozialen Aspekte der Geschichte.
-   - Gastbeiträge und Kommentare von Besuchern.
-
-5. **Galerie**
-   - Bilder und Illustrationen, die die Geschichte visuell untermalen.
-
-6. **Kontakt**
-   - Möglichkeiten zur Kontaktaufnahme.
-   - Einladung zur Diskussion und Feedback.
-
-## Installation und Nutzung
-
-Um die Webseite lokal zu hosten oder Änderungen vorzunehmen, folgen Sie diesen Schritten:
-
-1. **Repository klonen**
-   ```bash
-   git clone https://github.com/dein-benutzername/elaischa-abegga-geschichte.git
+Diese Webseite steht unter der [MIT Lizenz](LICENSE). Für weitere Fragen oder Anregungen kontaktieren Sie uns bitte über die Kontaktseite.
